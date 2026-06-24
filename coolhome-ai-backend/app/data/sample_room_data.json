@@ -1,0 +1,8 @@
+{
+    "windows": 1,
+    "ventilation": "moderate",
+    "sunlight": "high",
+    "indoor_plants": false,
+    "furniture_density": "high",
+    "airflow_obstruction": "high"
+}

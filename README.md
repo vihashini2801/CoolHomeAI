@@ -51,7 +51,7 @@ The system uses AI-based room analysis to identify heat-related issues and sugge
 CoolHomeAI/
 ├── coolhome-ai-frontend/
 ├── coolhome-ai-backend/
-├── Screenshot/
+├── ScreenshotsS/
 └── README.md
 ```
 
@@ -82,26 +82,6 @@ uvicorn main:app --reload
 
 ---
 
-## API Endpoint
-
-### Analyze Room
-
-```http
-POST /api/analyze-image
-```
-
-Response Example:
-
-```json
-{
-  "cooling_score": 45,
-  "energy_score": 81,
-  "sustainability_score": 72,
-  "temperature_reduction": 4
-}
-```
-
----
 
 ## Future Enhancements
 
